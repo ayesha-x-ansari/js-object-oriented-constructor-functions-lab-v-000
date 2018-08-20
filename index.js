@@ -12,7 +12,7 @@ function Driver(name, age, experience ) {
 }
 
 
- 
+
 Driver with name, age, and experience properties
 
 PickupLocation with address and city properties
@@ -20,4 +20,3 @@ function PickLocation(address, city) {
   this.address = address
   this.city = city
 }
-
